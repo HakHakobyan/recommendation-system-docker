@@ -119,5 +119,5 @@ Please note, that in the logs you can see the cases when the program gets the da
 
 ### Personal Info
 Hakob Hakobyan, 
-Armenia, Yereavn,
+Armenia, Yerevan,
 +37477641017
